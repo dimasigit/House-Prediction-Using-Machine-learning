@@ -15,6 +15,8 @@
 
 ![Business](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide3.PNG)
 
+### Context
+Data set ini merupakan kumpulan data perumahan di kawasan California, Amerika Serikat yang berasal dari sensus yang dilakukan di tahun 1990 yang berisikan data-data demography (income, populasi, house occupancy) di suatu area, lokasi area (latitude, longitude) dan informasi general terkait rumah yang berada di area tersebut (number of rooms, number of bedrooms, age of the house). Jadi, meskipun mungkin tidak membantu Anda memprediksi harga perumahan saat ini seperti dataset Zillow Zestimate, ini menyediakan dataset pengantar yang dapat diakses untuk mengajari orang-orang tentang dasar-dasar Machine Learning.
 ![Tawarkan](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide4.PNG)
 
 ![ML](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide5.PNG)
