@@ -37,7 +37,7 @@ Tim Assesment 4 :
 
 <hr>
 
-![cover](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/1.jpg)
+![cover]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/1.jpg](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide1.PNG))
 
 ## *Latar Belakang : *
 
