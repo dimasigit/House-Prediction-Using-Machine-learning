@@ -1,41 +1,4 @@
 # House-Prediction-Using-Machine-learning
-# EDA-Bank-Marketing-Campaign
-Tim Assesment 4 :
-
-- [Jeffry Junior Tedjasuklaksana](https://github.com/JeffreyJuinior) 
-- [Hanifah Nurfahmi](https://github.com/HanifahNurfahmi) 
-- [Muhammad Al-farisy](https://github.com/mhdalfarisy) 
-
-# Business Problem
-- Database Bank marketing campaigns : Data yang menggambarkan hasil pemasaran Bank Portugal. Pemasaran yang dilakukan sebagian besar didasarkan pada panggilan telepon langsung, menawarkan nasabah bank untuk menempatkan deposito. Namun banyaknya nasabah yang menolak membuka rekening deposito membuat *Tim Sales harus membuat strategi untuk menambah nasabah membuka deposito*.
-
-# Business Goal
-- Kami selaku konsultan data science akan memberikan rekomendasi strategi kepada *Tim Sales Bank Portugal* untuk menambah nasabah membuka deposito.
-
-# Data Understanding
-- Age   	: Menyimpan informasi tentang umur klien
-- Job   	: Menyimpan informasi tentang bidang pekerjaan klien
-- Marital 	: Menyimpan informasi tentang status pernikahan klien
-- Education 	: Menyimpan informasi tentang status pendidikan klien
-- Default 	: Menyimpan informasi tentang latar belakang kredit macet klien
-- Campaign	: Informasi terkait jumlah kontak yang dilakukan selama campaign ini
-- Housing 	: Menyimpan informasi tentang cicilan rumah klien
-- Loan 	: Menyimpan informasi tentang kepemilikan hutang klien terhadap pihak lain
-- Contact 	: Menyimpan informasi tentang tipe menghubungi klien melalui telepon dan cellular
-- Month 	: Menyimpan informasi tentang bulan menghubungi klien
-- Day_of_Week : Menyimpan informasi tentang hari terakhir menghubungi klien
-- Duration 	: Menyimpan informasi tentang durasi menghubungi klien melalui telepon dan cellular (dalam hitungan detik)
-- Pdays : Menyimpan informasi tentang jumlah hari yang berlalu setelah klien terakhir dihubungi dari kampanye sebelumnya
-- Previous : Menyimpan informasi tentang jumlah komunikasi dengan klien yang dilakukan yang dilakukan sebelum kampanye ini dan untuk klien ini
-- Poutcome: Menyimpan informasi tentang hasil dari kampanye pemasaran sebelumnya
-- Emp.Var.Rate : Menyimpan informasi tentang variasi tingkat lapangan kerja regional di suatu negara
-- Cons.Price.Idx : Menyimpan informasi tentang tingkat inflasi di portugal
-- Cons.Conf.Id : Menyimpan informasi tentang kepercayaan klien terhadap bank
-- Euriborn3m : Menyimpan informasi tentang tingkat bunga rata-rata Europa
-- Nr.employeed : Menyimpan informasi tentang jumlah karyawan bank
-- Y : Menyimpan informasi tentang data klien yang jadi melakukan deposit di bank
-
-<hr>
 
 ![cover](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide1.PNG)
 
