@@ -3,6 +3,15 @@
 ![cover](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide1.PNG)
 
 ![agenda](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide2.PNG)
+[Sumber data California House Prediction](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
+
+# **CONTENTS**
+##### 1. Business Problem Understanding
+##### 2. Data Understanding
+##### 3. Data Preprocessing
+##### 4. Modeling
+##### 5. Conclusion
+##### 6. Recommendation
 
 ![Business](https://github.com/dimasigit/House-Prediction-Using-Machine-learning/blob/main/Images/Slide3.PNG)
 
